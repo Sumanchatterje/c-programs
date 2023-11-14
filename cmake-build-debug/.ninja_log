@@ -1,0 +1,7 @@
+# ninja log v5
+1	91	7192641217891500	CMakeFiles/c_programs.dir/main.c.obj	8a0ff4ab2c7f4f79
+91	211	7192641219072565	c_programs.exe	9dfae99a457fefdb
+5	50	7211046128320441	CMakeFiles/c_programs.dir/hello.c.obj	aae28328364e4343
+1	63	7211046128460564	CMakeFiles/c_programs.dir/42.c.obj	c36673f456b42a32
+9	67	7211046128490593	CMakeFiles/c_programs.dir/47.c.obj	13908b8aa69d150b
+13	68	7211046128510609	CMakeFiles/c_programs.dir/60.c.obj	e373a19f17e8c357
