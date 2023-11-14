@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="c_programs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_programs">
+				<Option output="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/c_programs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_programs"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="c_programs/fast">
+				<Option output="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/c_programs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 c_programs/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/42.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/47.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/60.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-01.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-02.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-03.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-04.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-05.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-06.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-07.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-08.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-09.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-10.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-11.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-12.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-13.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-14.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-15.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-16.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-17.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-18.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-19.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-20.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-21.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-22.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-23.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-24.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-25.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-26.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-27.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-28.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-29.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-30.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-31.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-32.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-33.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-34.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-35.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-36.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-37.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-38.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-39.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-40.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-41.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-42.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-43.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-44.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-45.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-46.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-47.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-48.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-49.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-50.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-51.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-52.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-53.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-54.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-55.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-56.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/P-57.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/hello.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/hello.h">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/main.c">
+			<Option target="c_programs"/>
+		</Unit>
+		<Unit filename="C:/Users/Suman/Desktop/_/CODING/c-programs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
