@@ -200,6 +200,30 @@ c_programs/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/60.c.s
 .PHONY : 60.c.s
 
+87.obj: 87.c.obj
+.PHONY : 87.obj
+
+# target to build an object file
+87.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/87.c.obj
+.PHONY : 87.c.obj
+
+87.i: 87.c.i
+.PHONY : 87.i
+
+# target to preprocess a source file
+87.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/87.c.i
+.PHONY : 87.c.i
+
+87.s: 87.c.s
+.PHONY : 87.s
+
+# target to generate assembly for a file
+87.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/87.c.s
+.PHONY : 87.c.s
+
 P-01.obj: P-01.c.obj
 .PHONY : P-01.obj
 
@@ -1568,6 +1592,78 @@ P-57.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-57.c.s
 .PHONY : P-57.c.s
 
+P-85.obj: P-85.c.obj
+.PHONY : P-85.obj
+
+# target to build an object file
+P-85.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-85.c.obj
+.PHONY : P-85.c.obj
+
+P-85.i: P-85.c.i
+.PHONY : P-85.i
+
+# target to preprocess a source file
+P-85.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-85.c.i
+.PHONY : P-85.c.i
+
+P-85.s: P-85.c.s
+.PHONY : P-85.s
+
+# target to generate assembly for a file
+P-85.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-85.c.s
+.PHONY : P-85.c.s
+
+P-86.obj: P-86.c.obj
+.PHONY : P-86.obj
+
+# target to build an object file
+P-86.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-86.c.obj
+.PHONY : P-86.c.obj
+
+P-86.i: P-86.c.i
+.PHONY : P-86.i
+
+# target to preprocess a source file
+P-86.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-86.c.i
+.PHONY : P-86.c.i
+
+P-86.s: P-86.c.s
+.PHONY : P-86.s
+
+# target to generate assembly for a file
+P-86.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-86.c.s
+.PHONY : P-86.c.s
+
+P-87.obj: P-87.c.obj
+.PHONY : P-87.obj
+
+# target to build an object file
+P-87.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-87.c.obj
+.PHONY : P-87.c.obj
+
+P-87.i: P-87.c.i
+.PHONY : P-87.i
+
+# target to preprocess a source file
+P-87.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-87.c.i
+.PHONY : P-87.c.i
+
+P-87.s: P-87.c.s
+.PHONY : P-87.s
+
+# target to generate assembly for a file
+P-87.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-87.c.s
+.PHONY : P-87.c.s
+
 hello.obj: hello.c.obj
 .PHONY : hello.obj
 
@@ -1634,6 +1730,9 @@ help:
 	@echo ... 60.obj
 	@echo ... 60.i
 	@echo ... 60.s
+	@echo ... 87.obj
+	@echo ... 87.i
+	@echo ... 87.s
 	@echo ... P-01.obj
 	@echo ... P-01.i
 	@echo ... P-01.s
@@ -1805,6 +1904,15 @@ help:
 	@echo ... P-57.obj
 	@echo ... P-57.i
 	@echo ... P-57.s
+	@echo ... P-85.obj
+	@echo ... P-85.i
+	@echo ... P-85.s
+	@echo ... P-86.obj
+	@echo ... P-86.i
+	@echo ... P-86.s
+	@echo ... P-87.obj
+	@echo ... P-87.i
+	@echo ... P-87.s
 	@echo ... hello.obj
 	@echo ... hello.i
 	@echo ... hello.s

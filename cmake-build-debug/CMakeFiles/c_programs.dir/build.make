@@ -936,6 +936,62 @@ CMakeFiles/c_programs.dir/P-01.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_programs.dir/P-01.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Suman\Desktop\_\CODING\c-programs\P-01.c -o CMakeFiles\c_programs.dir\P-01.c.s
 
+CMakeFiles/c_programs.dir/P-85.c.obj: CMakeFiles/c_programs.dir/flags.make
+CMakeFiles/c_programs.dir/P-85.c.obj: C:/Users/Suman/Desktop/_/CODING/c-programs/P-85.c
+CMakeFiles/c_programs.dir/P-85.c.obj: CMakeFiles/c_programs.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Suman\Desktop\_\CODING\c-programs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/c_programs.dir/P-85.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c_programs.dir/P-85.c.obj -MF CMakeFiles\c_programs.dir\P-85.c.obj.d -o CMakeFiles\c_programs.dir\P-85.c.obj -c C:\Users\Suman\Desktop\_\CODING\c-programs\P-85.c
+
+CMakeFiles/c_programs.dir/P-85.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_programs.dir/P-85.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Suman\Desktop\_\CODING\c-programs\P-85.c > CMakeFiles\c_programs.dir\P-85.c.i
+
+CMakeFiles/c_programs.dir/P-85.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_programs.dir/P-85.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Suman\Desktop\_\CODING\c-programs\P-85.c -o CMakeFiles\c_programs.dir\P-85.c.s
+
+CMakeFiles/c_programs.dir/P-86.c.obj: CMakeFiles/c_programs.dir/flags.make
+CMakeFiles/c_programs.dir/P-86.c.obj: C:/Users/Suman/Desktop/_/CODING/c-programs/P-86.c
+CMakeFiles/c_programs.dir/P-86.c.obj: CMakeFiles/c_programs.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Suman\Desktop\_\CODING\c-programs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/c_programs.dir/P-86.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c_programs.dir/P-86.c.obj -MF CMakeFiles\c_programs.dir\P-86.c.obj.d -o CMakeFiles\c_programs.dir\P-86.c.obj -c C:\Users\Suman\Desktop\_\CODING\c-programs\P-86.c
+
+CMakeFiles/c_programs.dir/P-86.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_programs.dir/P-86.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Suman\Desktop\_\CODING\c-programs\P-86.c > CMakeFiles\c_programs.dir\P-86.c.i
+
+CMakeFiles/c_programs.dir/P-86.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_programs.dir/P-86.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Suman\Desktop\_\CODING\c-programs\P-86.c -o CMakeFiles\c_programs.dir\P-86.c.s
+
+CMakeFiles/c_programs.dir/87.c.obj: CMakeFiles/c_programs.dir/flags.make
+CMakeFiles/c_programs.dir/87.c.obj: C:/Users/Suman/Desktop/_/CODING/c-programs/87.c
+CMakeFiles/c_programs.dir/87.c.obj: CMakeFiles/c_programs.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Suman\Desktop\_\CODING\c-programs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/c_programs.dir/87.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c_programs.dir/87.c.obj -MF CMakeFiles\c_programs.dir\87.c.obj.d -o CMakeFiles\c_programs.dir\87.c.obj -c C:\Users\Suman\Desktop\_\CODING\c-programs\87.c
+
+CMakeFiles/c_programs.dir/87.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_programs.dir/87.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Suman\Desktop\_\CODING\c-programs\87.c > CMakeFiles\c_programs.dir\87.c.i
+
+CMakeFiles/c_programs.dir/87.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_programs.dir/87.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Suman\Desktop\_\CODING\c-programs\87.c -o CMakeFiles\c_programs.dir\87.c.s
+
+CMakeFiles/c_programs.dir/P-87.c.obj: CMakeFiles/c_programs.dir/flags.make
+CMakeFiles/c_programs.dir/P-87.c.obj: C:/Users/Suman/Desktop/_/CODING/c-programs/P-87.c
+CMakeFiles/c_programs.dir/P-87.c.obj: CMakeFiles/c_programs.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Suman\Desktop\_\CODING\c-programs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/c_programs.dir/P-87.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/c_programs.dir/P-87.c.obj -MF CMakeFiles\c_programs.dir\P-87.c.obj.d -o CMakeFiles\c_programs.dir\P-87.c.obj -c C:\Users\Suman\Desktop\_\CODING\c-programs\P-87.c
+
+CMakeFiles/c_programs.dir/P-87.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_programs.dir/P-87.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Suman\Desktop\_\CODING\c-programs\P-87.c > CMakeFiles\c_programs.dir\P-87.c.i
+
+CMakeFiles/c_programs.dir/P-87.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_programs.dir/P-87.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Suman\Desktop\_\CODING\c-programs\P-87.c -o CMakeFiles\c_programs.dir\P-87.c.s
+
 # Object files for target c_programs
 c_programs_OBJECTS = \
 "CMakeFiles/c_programs.dir/42.c.obj" \
@@ -999,7 +1055,11 @@ c_programs_OBJECTS = \
 "CMakeFiles/c_programs.dir/P-04.c.obj" \
 "CMakeFiles/c_programs.dir/P-03.c.obj" \
 "CMakeFiles/c_programs.dir/P-02.c.obj" \
-"CMakeFiles/c_programs.dir/P-01.c.obj"
+"CMakeFiles/c_programs.dir/P-01.c.obj" \
+"CMakeFiles/c_programs.dir/P-85.c.obj" \
+"CMakeFiles/c_programs.dir/P-86.c.obj" \
+"CMakeFiles/c_programs.dir/87.c.obj" \
+"CMakeFiles/c_programs.dir/P-87.c.obj"
 
 # External object files for target c_programs
 c_programs_EXTERNAL_OBJECTS =
@@ -1066,11 +1126,15 @@ c_programs.exe: CMakeFiles/c_programs.dir/P-04.c.obj
 c_programs.exe: CMakeFiles/c_programs.dir/P-03.c.obj
 c_programs.exe: CMakeFiles/c_programs.dir/P-02.c.obj
 c_programs.exe: CMakeFiles/c_programs.dir/P-01.c.obj
+c_programs.exe: CMakeFiles/c_programs.dir/P-85.c.obj
+c_programs.exe: CMakeFiles/c_programs.dir/P-86.c.obj
+c_programs.exe: CMakeFiles/c_programs.dir/87.c.obj
+c_programs.exe: CMakeFiles/c_programs.dir/P-87.c.obj
 c_programs.exe: CMakeFiles/c_programs.dir/build.make
 c_programs.exe: CMakeFiles/c_programs.dir/linkLibs.rsp
 c_programs.exe: CMakeFiles/c_programs.dir/objects1.rsp
 c_programs.exe: CMakeFiles/c_programs.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Suman\Desktop\_\CODING\c-programs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Linking C executable c_programs.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Suman\Desktop\_\CODING\c-programs\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Linking C executable c_programs.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\c_programs.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

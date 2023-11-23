@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Suman/Desktop/_/CODING/c-programs/42.c" "CMakeFiles/c_programs.dir/42.c.obj" "gcc" "CMakeFiles/c_programs.dir/42.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/47.c" "CMakeFiles/c_programs.dir/47.c.obj" "gcc" "CMakeFiles/c_programs.dir/47.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/60.c" "CMakeFiles/c_programs.dir/60.c.obj" "gcc" "CMakeFiles/c_programs.dir/60.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/87.c" "CMakeFiles/c_programs.dir/87.c.obj" "gcc" "CMakeFiles/c_programs.dir/87.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-01.c" "CMakeFiles/c_programs.dir/P-01.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-01.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-02.c" "CMakeFiles/c_programs.dir/P-02.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-02.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-03.c" "CMakeFiles/c_programs.dir/P-03.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-03.c.obj.d"
@@ -68,6 +69,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-55.c" "CMakeFiles/c_programs.dir/P-55.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-55.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-56.c" "CMakeFiles/c_programs.dir/P-56.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-56.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-57.c" "CMakeFiles/c_programs.dir/P-57.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-57.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/P-85.c" "CMakeFiles/c_programs.dir/P-85.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-85.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/P-86.c" "CMakeFiles/c_programs.dir/P-86.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-86.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/P-87.c" "CMakeFiles/c_programs.dir/P-87.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-87.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/hello.c" "CMakeFiles/c_programs.dir/hello.c.obj" "gcc" "CMakeFiles/c_programs.dir/hello.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/main.c" "CMakeFiles/c_programs.dir/main.c.obj" "gcc" "CMakeFiles/c_programs.dir/main.c.obj.d"
   )
