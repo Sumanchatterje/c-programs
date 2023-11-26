@@ -69,4 +69,15 @@ add_executable(c_programs
         P-85.c
         P-86.c
         P-87.c
+        P-70.c
+        P-74.c
+        P-58.c
+        P-59.c
+        P-60.c
+        P-61.c
+        P-62.c
+        P-63.c
+        P-64.c
+        P-65.c
+        P-66.c
 )
