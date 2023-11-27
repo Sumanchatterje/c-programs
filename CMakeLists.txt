@@ -99,4 +99,5 @@ add_executable(c_programs
         P-91.c
         P-92.c
         P-93.c
+        P-94.c
 )

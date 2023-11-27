@@ -2360,6 +2360,30 @@ P-93.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-93.c.s
 .PHONY : P-93.c.s
 
+P-94.obj: P-94.c.obj
+.PHONY : P-94.obj
+
+# target to build an object file
+P-94.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-94.c.obj
+.PHONY : P-94.c.obj
+
+P-94.i: P-94.c.i
+.PHONY : P-94.i
+
+# target to preprocess a source file
+P-94.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-94.c.i
+.PHONY : P-94.c.i
+
+P-94.s: P-94.c.s
+.PHONY : P-94.s
+
+# target to generate assembly for a file
+P-94.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/P-94.c.s
+.PHONY : P-94.c.s
+
 hello.obj: hello.c.obj
 .PHONY : hello.obj
 
@@ -2696,6 +2720,9 @@ help:
 	@echo ... P-93.obj
 	@echo ... P-93.i
 	@echo ... P-93.s
+	@echo ... P-94.obj
+	@echo ... P-94.i
+	@echo ... P-94.s
 	@echo ... hello.obj
 	@echo ... hello.i
 	@echo ... hello.s

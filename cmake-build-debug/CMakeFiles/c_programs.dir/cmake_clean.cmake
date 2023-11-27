@@ -185,6 +185,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/c_programs.dir/P-92.c.obj.d"
   "CMakeFiles/c_programs.dir/P-93.c.obj"
   "CMakeFiles/c_programs.dir/P-93.c.obj.d"
+  "CMakeFiles/c_programs.dir/P-94.c.obj"
+  "CMakeFiles/c_programs.dir/P-94.c.obj.d"
   "CMakeFiles/c_programs.dir/hello.c.obj"
   "CMakeFiles/c_programs.dir/hello.c.obj.d"
   "CMakeFiles/c_programs.dir/main.c.obj"
