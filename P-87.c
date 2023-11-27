@@ -1,7 +1,6 @@
 /**87
 wap in c to implement queue data structure using array.
  **/
-#include<stdlib.h>
 #include<stdio.h>
 int queue[5];
 int front=-1;

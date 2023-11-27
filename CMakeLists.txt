@@ -90,4 +90,13 @@ add_executable(c_programs
         P-79.c
         P-80.c
         P-81.c
+        P-82.c
+        P-83.c
+        P-84.c
+        P-88.c
+        P-89.c
+        P-90.c
+        P-91.c
+        P-92.c
+        P-93.c
 )

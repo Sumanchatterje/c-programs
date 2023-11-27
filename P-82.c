@@ -1,15 +1,18 @@
-//Write a program in c to check if a file exists or not.
+//Write a program in c to read data from a file and display.
 #include <stdio.h>
 int main()
 {
     FILE *fp;
+    char data[100];
     fp= fopen("sample.txt","r");
     if(fp!=NULL)
     {
         printf("FILE OPENED!");
+        fgets(data,100,fp);
+        printf("%s",data);
     }
     else
     {
-        printf("FILE NOT FOUND!");
+        printf("ERROR!");
     }
 }
