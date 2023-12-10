@@ -11,6 +11,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Suman/Desktop/_/CODING/c-programs/42.c" "CMakeFiles/c_programs.dir/42.c.obj" "gcc" "CMakeFiles/c_programs.dir/42.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/47.c" "CMakeFiles/c_programs.dir/47.c.obj" "gcc" "CMakeFiles/c_programs.dir/47.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/60.c" "CMakeFiles/c_programs.dir/60.c.obj" "gcc" "CMakeFiles/c_programs.dir/60.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/EPQ-85.c" "CMakeFiles/c_programs.dir/EPQ-85.c.obj" "gcc" "CMakeFiles/c_programs.dir/EPQ-85.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/EPQ-86.c" "CMakeFiles/c_programs.dir/EPQ-86.c.obj" "gcc" "CMakeFiles/c_programs.dir/EPQ-86.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-01.c" "CMakeFiles/c_programs.dir/P-01.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-01.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-02.c" "CMakeFiles/c_programs.dir/P-02.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-02.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-03.c" "CMakeFiles/c_programs.dir/P-03.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-03.c.obj.d"

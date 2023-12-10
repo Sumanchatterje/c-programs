@@ -200,6 +200,54 @@ c_programs/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/60.c.s
 .PHONY : 60.c.s
 
+EPQ-85.obj: EPQ-85.c.obj
+.PHONY : EPQ-85.obj
+
+# target to build an object file
+EPQ-85.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-85.c.obj
+.PHONY : EPQ-85.c.obj
+
+EPQ-85.i: EPQ-85.c.i
+.PHONY : EPQ-85.i
+
+# target to preprocess a source file
+EPQ-85.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-85.c.i
+.PHONY : EPQ-85.c.i
+
+EPQ-85.s: EPQ-85.c.s
+.PHONY : EPQ-85.s
+
+# target to generate assembly for a file
+EPQ-85.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-85.c.s
+.PHONY : EPQ-85.c.s
+
+EPQ-86.obj: EPQ-86.c.obj
+.PHONY : EPQ-86.obj
+
+# target to build an object file
+EPQ-86.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-86.c.obj
+.PHONY : EPQ-86.c.obj
+
+EPQ-86.i: EPQ-86.c.i
+.PHONY : EPQ-86.i
+
+# target to preprocess a source file
+EPQ-86.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-86.c.i
+.PHONY : EPQ-86.c.i
+
+EPQ-86.s: EPQ-86.c.s
+.PHONY : EPQ-86.s
+
+# target to generate assembly for a file
+EPQ-86.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-86.c.s
+.PHONY : EPQ-86.c.s
+
 P-01.obj: P-01.c.obj
 .PHONY : P-01.obj
 
@@ -2450,6 +2498,12 @@ help:
 	@echo ... 60.obj
 	@echo ... 60.i
 	@echo ... 60.s
+	@echo ... EPQ-85.obj
+	@echo ... EPQ-85.i
+	@echo ... EPQ-85.s
+	@echo ... EPQ-86.obj
+	@echo ... EPQ-86.i
+	@echo ... EPQ-86.s
 	@echo ... P-01.obj
 	@echo ... P-01.i
 	@echo ... P-01.s
