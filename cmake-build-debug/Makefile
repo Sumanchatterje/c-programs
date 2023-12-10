@@ -200,6 +200,30 @@ c_programs/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/60.c.s
 .PHONY : 60.c.s
 
+EPQ-56.obj: EPQ-56.c.obj
+.PHONY : EPQ-56.obj
+
+# target to build an object file
+EPQ-56.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-56.c.obj
+.PHONY : EPQ-56.c.obj
+
+EPQ-56.i: EPQ-56.c.i
+.PHONY : EPQ-56.i
+
+# target to preprocess a source file
+EPQ-56.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-56.c.i
+.PHONY : EPQ-56.c.i
+
+EPQ-56.s: EPQ-56.c.s
+.PHONY : EPQ-56.s
+
+# target to generate assembly for a file
+EPQ-56.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-56.c.s
+.PHONY : EPQ-56.c.s
+
 EPQ-85.obj: EPQ-85.c.obj
 .PHONY : EPQ-85.obj
 
@@ -247,6 +271,78 @@ EPQ-86.s: EPQ-86.c.s
 EPQ-86.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-86.c.s
 .PHONY : EPQ-86.c.s
+
+EPQ-94.obj: EPQ-94.c.obj
+.PHONY : EPQ-94.obj
+
+# target to build an object file
+EPQ-94.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-94.c.obj
+.PHONY : EPQ-94.c.obj
+
+EPQ-94.i: EPQ-94.c.i
+.PHONY : EPQ-94.i
+
+# target to preprocess a source file
+EPQ-94.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-94.c.i
+.PHONY : EPQ-94.c.i
+
+EPQ-94.s: EPQ-94.c.s
+.PHONY : EPQ-94.s
+
+# target to generate assembly for a file
+EPQ-94.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-94.c.s
+.PHONY : EPQ-94.c.s
+
+EPQ-95.obj: EPQ-95.c.obj
+.PHONY : EPQ-95.obj
+
+# target to build an object file
+EPQ-95.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-95.c.obj
+.PHONY : EPQ-95.c.obj
+
+EPQ-95.i: EPQ-95.c.i
+.PHONY : EPQ-95.i
+
+# target to preprocess a source file
+EPQ-95.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-95.c.i
+.PHONY : EPQ-95.c.i
+
+EPQ-95.s: EPQ-95.c.s
+.PHONY : EPQ-95.s
+
+# target to generate assembly for a file
+EPQ-95.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-95.c.s
+.PHONY : EPQ-95.c.s
+
+EPQ-96.obj: EPQ-96.c.obj
+.PHONY : EPQ-96.obj
+
+# target to build an object file
+EPQ-96.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-96.c.obj
+.PHONY : EPQ-96.c.obj
+
+EPQ-96.i: EPQ-96.c.i
+.PHONY : EPQ-96.i
+
+# target to preprocess a source file
+EPQ-96.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-96.c.i
+.PHONY : EPQ-96.c.i
+
+EPQ-96.s: EPQ-96.c.s
+.PHONY : EPQ-96.s
+
+# target to generate assembly for a file
+EPQ-96.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/EPQ-96.c.s
+.PHONY : EPQ-96.c.s
 
 P-01.obj: P-01.c.obj
 .PHONY : P-01.obj
@@ -2480,6 +2576,78 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/main.c.s
 .PHONY : main.c.s
 
+prac-1.obj: prac-1.c.obj
+.PHONY : prac-1.obj
+
+# target to build an object file
+prac-1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-1.c.obj
+.PHONY : prac-1.c.obj
+
+prac-1.i: prac-1.c.i
+.PHONY : prac-1.i
+
+# target to preprocess a source file
+prac-1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-1.c.i
+.PHONY : prac-1.c.i
+
+prac-1.s: prac-1.c.s
+.PHONY : prac-1.s
+
+# target to generate assembly for a file
+prac-1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-1.c.s
+.PHONY : prac-1.c.s
+
+prac-2.obj: prac-2.c.obj
+.PHONY : prac-2.obj
+
+# target to build an object file
+prac-2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-2.c.obj
+.PHONY : prac-2.c.obj
+
+prac-2.i: prac-2.c.i
+.PHONY : prac-2.i
+
+# target to preprocess a source file
+prac-2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-2.c.i
+.PHONY : prac-2.c.i
+
+prac-2.s: prac-2.c.s
+.PHONY : prac-2.s
+
+# target to generate assembly for a file
+prac-2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-2.c.s
+.PHONY : prac-2.c.s
+
+prac-3.obj: prac-3.c.obj
+.PHONY : prac-3.obj
+
+# target to build an object file
+prac-3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-3.c.obj
+.PHONY : prac-3.c.obj
+
+prac-3.i: prac-3.c.i
+.PHONY : prac-3.i
+
+# target to preprocess a source file
+prac-3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-3.c.i
+.PHONY : prac-3.c.i
+
+prac-3.s: prac-3.c.s
+.PHONY : prac-3.s
+
+# target to generate assembly for a file
+prac-3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/prac-3.c.s
+.PHONY : prac-3.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -2498,12 +2666,24 @@ help:
 	@echo ... 60.obj
 	@echo ... 60.i
 	@echo ... 60.s
+	@echo ... EPQ-56.obj
+	@echo ... EPQ-56.i
+	@echo ... EPQ-56.s
 	@echo ... EPQ-85.obj
 	@echo ... EPQ-85.i
 	@echo ... EPQ-85.s
 	@echo ... EPQ-86.obj
 	@echo ... EPQ-86.i
 	@echo ... EPQ-86.s
+	@echo ... EPQ-94.obj
+	@echo ... EPQ-94.i
+	@echo ... EPQ-94.s
+	@echo ... EPQ-95.obj
+	@echo ... EPQ-95.i
+	@echo ... EPQ-95.s
+	@echo ... EPQ-96.obj
+	@echo ... EPQ-96.i
+	@echo ... EPQ-96.s
 	@echo ... P-01.obj
 	@echo ... P-01.i
 	@echo ... P-01.s
@@ -2783,6 +2963,15 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... prac-1.obj
+	@echo ... prac-1.i
+	@echo ... prac-1.s
+	@echo ... prac-2.obj
+	@echo ... prac-2.i
+	@echo ... prac-2.s
+	@echo ... prac-3.obj
+	@echo ... prac-3.i
+	@echo ... prac-3.s
 .PHONY : help
 
 

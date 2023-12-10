@@ -102,4 +102,11 @@ add_executable(c_programs
         P-94.c
         EPQ-86.c
         EPQ-85.c
+        EPQ-95.c
+        EPQ-96.c
+        EPQ-94.c
+        EPQ-56.c
+        prac-1.c
+        prac-2.c
+        prac-3.c
 )
