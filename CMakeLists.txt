@@ -109,4 +109,5 @@ add_executable(c_programs
         prac-1.c
         prac-2.c
         prac-3.c
+        iris.c
 )

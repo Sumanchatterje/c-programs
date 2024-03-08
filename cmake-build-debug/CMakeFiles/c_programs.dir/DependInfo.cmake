@@ -109,6 +109,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-93.c" "CMakeFiles/c_programs.dir/P-93.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-93.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/P-94.c" "CMakeFiles/c_programs.dir/P-94.c.obj" "gcc" "CMakeFiles/c_programs.dir/P-94.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/hello.c" "CMakeFiles/c_programs.dir/hello.c.obj" "gcc" "CMakeFiles/c_programs.dir/hello.c.obj.d"
+  "C:/Users/Suman/Desktop/_/CODING/c-programs/iris.c" "CMakeFiles/c_programs.dir/iris.c.obj" "gcc" "CMakeFiles/c_programs.dir/iris.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/main.c" "CMakeFiles/c_programs.dir/main.c.obj" "gcc" "CMakeFiles/c_programs.dir/main.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/prac-1.c" "CMakeFiles/c_programs.dir/prac-1.c.obj" "gcc" "CMakeFiles/c_programs.dir/prac-1.c.obj.d"
   "C:/Users/Suman/Desktop/_/CODING/c-programs/prac-2.c" "CMakeFiles/c_programs.dir/prac-2.c.obj" "gcc" "CMakeFiles/c_programs.dir/prac-2.c.obj.d"

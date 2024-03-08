@@ -2552,6 +2552,30 @@ hello.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/hello.c.s
 .PHONY : hello.c.s
 
+iris.obj: iris.c.obj
+.PHONY : iris.obj
+
+# target to build an object file
+iris.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/iris.c.obj
+.PHONY : iris.c.obj
+
+iris.i: iris.c.i
+.PHONY : iris.i
+
+# target to preprocess a source file
+iris.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/iris.c.i
+.PHONY : iris.c.i
+
+iris.s: iris.c.s
+.PHONY : iris.s
+
+# target to generate assembly for a file
+iris.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\c_programs.dir\build.make CMakeFiles/c_programs.dir/iris.c.s
+.PHONY : iris.c.s
+
 main.obj: main.c.obj
 .PHONY : main.obj
 
@@ -2960,6 +2984,9 @@ help:
 	@echo ... hello.obj
 	@echo ... hello.i
 	@echo ... hello.s
+	@echo ... iris.obj
+	@echo ... iris.i
+	@echo ... iris.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

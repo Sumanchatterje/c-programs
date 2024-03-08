@@ -201,6 +201,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/c_programs.dir/P-94.c.obj.d"
   "CMakeFiles/c_programs.dir/hello.c.obj"
   "CMakeFiles/c_programs.dir/hello.c.obj.d"
+  "CMakeFiles/c_programs.dir/iris.c.obj"
+  "CMakeFiles/c_programs.dir/iris.c.obj.d"
   "CMakeFiles/c_programs.dir/main.c.obj"
   "CMakeFiles/c_programs.dir/main.c.obj.d"
   "CMakeFiles/c_programs.dir/prac-1.c.obj"
