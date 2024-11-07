@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Suman/Desktop/_/CODING/c-programs/cmake-build-debug",
-		"source" : "C:/Users/Suman/Desktop/_/CODING/c-programs"
+		"build" : "D:/_/CODING/c-programs/cmake-build-debug",
+		"source" : "D:/_/CODING/c-programs"
 	},
 	"version" : 
 	{
